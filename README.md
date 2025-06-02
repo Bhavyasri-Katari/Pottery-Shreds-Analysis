@@ -1,4 +1,3 @@
-# Pottery-Shreds-Analysis
 
 # Pottery Shreds Analysis: A Study of Cultural Exchange Between IVC and Iranian Regions
 *	Conducted exploratory data analysis (EDA) on a dataset of pottery sherds from Iranian and IVC regions, utilizing Python (Pandas, NumPy) for data manipulation and analysis.
